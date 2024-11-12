@@ -1,1 +1,1 @@
-# myOct2021WeekDayRepo - My WebApp 
+#Javawebapp deployed in Azure using app service
